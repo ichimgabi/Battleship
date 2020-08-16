@@ -1,0 +1,19 @@
+Scopul jocului Battleship este de a gasi navele adversarului pe harta 
+si de a i le distruge in mod complet.
+
+Jocul presupune existenta a doi jucatori, iar fiecare jucator are un grid 
+de dimensiune 10 x 10 pe care isi plaseaza propriile nave, dupa cum urmeaza:
+-1 nava de dimensiune 1 x 4
+-2 nave de dimensiune 1 x 3
+-3 nave de dimensiune 1 x 2
+-4 nave de dimensiune 1 x 1
+
+Selectia casutelor de pe harta inamicului se navigheaza cu tastele-sageti.
+Pentru a confirma selectia unei casute din teritoriul inamic, apasati 
+tasta ENTER.
+
+Daca ati nimeric una din navele inamice, puteti continua cu mutarile.
+In caz contar, este randul computerului.
+
+Jocul se termina in momentul in care toate navele inamicului sau toate navele 
+voastre au fost distruse.
